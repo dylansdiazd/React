@@ -1,0 +1,23 @@
+.main {
+    text-align: center;
+    width: 100vw;
+    height: 20vh;
+}
+
+.text {
+    padding: 5px;
+}
+
+.bt {
+    text-align: center;
+    margin: auto;
+}
+
+.button {
+    border: 1px solid #b300ff;
+    background-color: #b300ff;
+    border-radius: 5px;
+    font-size: 1.3rem;
+    color: white;
+
+}
